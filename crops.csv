@@ -1,0 +1,66 @@
+Name,Season,MinPH,MaxPH,MinTemp,MaxTemp,MinRain,MaxRain,Details
+Wheat,Winter,6.0,7.5,10,25,50,100,Wheat is a staple cereal crop grown in temperate climates.
+Rice,Kharif,5.0,6.5,20,35,100,200,Rice requires high rainfall and warm weather.
+Maize,Any,5.5,7.0,18,27,50,100,Maize is versatile and grows in many climates.
+Barley,Winter,6.0,7.5,12,25,30,80,Barley is used for food, feed, and brewing.
+Oats,Winter,6.0,7.5,10,24,40,100,Oats are nutritious cereals suited for cool climates.
+Millet,Kharif,5.5,7.0,20,30,40,100,Millets are drought-resistant and grow in arid regions.
+Sorghum,Kharif,5.5,7.5,20,32,50,120,Sorghum is a heat and drought-tolerant cereal crop.
+Soybean,Kharif,6.0,7.0,20,30,70,120,Soybean requires moderate temperature and rainfall.
+Groundnut,Summer,5.5,7.5,20,30,50,100,Groundnut grows in sandy soil with warm weather.
+Cotton,Summer,5.8,8.0,20,30,60,120,Cotton grows best in warm, dry climates.
+Sugarcane,Summer,6.0,7.5,20,35,75,150,Sugarcane requires warm, humid conditions.
+Potato,Winter,5.0,6.0,15,25,50,120,Potatoes thrive in cool climates with well-drained soil.
+Tomato,Any,6.0,7.0,18,27,50,100,Tomatoes need warm climate and moderate rainfall.
+Onion,Any,6.0,7.5,15,25,40,100,Onion requires cool season for bulb formation.
+Garlic,Winter,6.0,7.5,12,22,30,80,Garlic grows well in cool climates with loose soil.
+Carrot,Winter,6.0,7.0,15,25,40,80,Carrots need cool weather and deep sandy soil.
+Cabbage,Winter,6.0,7.5,12,20,40,100,Cabbage grows best in cool, moist conditions.
+Cauliflower,Winter,6.0,7.5,15,20,50,100,Cauliflower requires cool weather for curd formation.
+Pea,Winter,6.0,7.5,10,25,40,100,Peas are grown in cool season with moderate rainfall.
+Chickpea,Rabi,6.0,7.5,15,30,40,80,Chickpeas are pulses grown in dry, cool climates.
+Pigeonpea,Kharif,6.0,7.5,18,35,60,120,Pigeonpea is a pulse crop tolerant to drought.
+Lentil,Winter,6.0,7.5,10,25,30,70,Lentil is a cool season pulse crop.
+Mustard,Winter,6.0,7.5,10,25,30,70,Mustard is an oilseed crop grown in cool season.
+Sunflower,Summer,6.0,7.5,20,30,40,100,Sunflower is an oilseed crop adaptable to many climates.
+Sesame,Summer,5.5,7.5,20,30,40,100,Sesame is an oilseed crop suited for dry climates.
+Banana,Any,5.5,7.5,20,30,100,200,Banana grows in tropical humid climate with rich soil.
+Mango,Summer,5.5,7.5,24,35,75,250,Mango is a tropical fruit crop.
+Apple,Winter,5.5,6.5,5,20,60,150,Apple requires cold winters and temperate summers.
+Grapes,Any,5.5,7.0,15,30,50,100,Grapes grow in mild climates with moderate rainfall.
+Orange,Winter,6.0,7.5,15,30,75,150,Oranges require subtropical climate.
+Papaya,Any,5.5,7.0,20,35,100,200,Papaya is a tropical fruit with high temperature needs.
+Pineapple,Any,4.5,5.5,20,30,100,200,Pineapple grows well in acidic soil with heavy rainfall.
+Coconut,Any,5.0,8.0,20,30,100,250,Coconut requires coastal humid climate.
+Coffee,Any,5.5,6.5,15,25,120,220,Coffee requires high rainfall and mild temperatures.
+Tea,Any,4.5,5.5,18,30,150,250,Tea grows well in acidic soil with heavy rainfall.
+Rubber,Any,5.5,6.5,20,30,150,300,Rubber requires hot, humid climate.
+Jute,Kharif,6.0,7.5,24,35,120,200,Jute requires hot, humid climate with high rainfall.
+Tobacco,Any,5.5,6.5,20,30,40,100,Tobacco is a cash crop grown in sandy loam soil.
+Strawberry,Winter,5.5,6.5,10,20,60,100,Strawberries require cool climate and well-drained soil.
+Pear,Winter,5.5,6.5,10,20,60,120,Pear grows in temperate climates with chilling winters.
+Guava,Any,5.5,7.0,20,30,100,200,Guava is a hardy fruit grown in tropical regions.
+Lychee,Summer,5.5,6.5,20,30,120,200,Lychee grows in tropical and subtropical regions.
+Watermelon,Summer,6.0,7.5,22,30,50,100,Watermelon requires hot, dry climate with irrigation.
+Melon,Summer,6.0,7.5,20,30,40,80,Melons grow in warm climates with sandy soil.
+Peach,Winter,6.0,7.0,10,20,60,120,Peach requires cold winters and warm summers.
+Plum,Winter,6.0,7.0,10,20,60,120,Plum requires temperate climate with winter chilling.
+Cherry,Winter,6.0,7.0,5,20,70,120,Cherry requires cold climate for flowering.
+Almond,Winter,6.0,7.0,10,20,40,100,Almond needs cold winters and dry summers.
+Walnut,Winter,6.0,7.0,10,20,50,120,Walnut grows in temperate climates.
+Cashew,Summer,5.5,7.0,20,30,60,150,Cashew requires coastal tropical climate.
+Olive,Any,6.0,8.0,15,30,50,100,Olives require Mediterranean climate.
+Avocado,Any,5.5,7.0,15,30,100,200,Avocado grows in tropical and subtropical climates.
+Chili,Any,5.5,7.0,20,30,50,100,Chili requires warm climate and well-drained soil.
+Pepper,Any,5.5,6.5,20,30,100,200,Pepper grows in tropical humid climate.
+Coriander,Winter,6.0,7.5,10,25,40,100,Coriander grows well in cool climates with well-drained soil. 
+Cumin,Winter,6.0,8.0,15,30,30,70,Cumin requires arid climate with well-drained soil.
+Fennel,Winter,6.0,7.5,10,25,40,100,Fennel grows well in cool climates with sandy loam soil.
+Bajra,Kharif,5.5,7.5,20,30,40,100,Bajra is a drought-resistant millet grown in arid regions.
+Sunflower,Summer,6.0,7.5,20,30,40,100,Sunflower is an oilseed crop adaptable to many climates.
+Soybean,Kharif,6.0,7.0,20,30,70,120,Soybean requires moderate temperature and rainfall.
+Cotton,Summer,5.8,8.0,20,30,60,120,Cotton grows best in warm, dry climates.
+Sugarcane,Summer,6.0,7.5,20,35,75,150,Sugarcane requires warm, humid conditions.
+Maize,Any,5.5,7.0,18,27,50,100,Maize is versatile and grows in many climates.
+Rice,Kharif,5.0,6.5,20,35,100,200,Rice requires high rainfall and warm weather.
+Wheat,Winter,6.0,7.5,10,25,50,100,Wheat is a staple cereal crop grown in temperate climates.
